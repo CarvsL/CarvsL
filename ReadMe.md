@@ -1,5 +1,5 @@
 # 💫 About Me:
-◀️ Estudante de ADS ▶️<br>-------------------------------<br>💻 Front-End ( HTML, CSS, JS, React )<br>👨‍💻 Back-End ( Java, Spring Boot )<br>💾 Banco de Dados (  MySQL, MongoDB )<br>🤖 I.A ( Machine Learning, Python )<br>📊 Ciência de dados ( Google Colab, Pandas Python )<br>👾 IOT ( C, C++ )<br>📡 Redes e Hardware<br>
+◀️ Estudante de ADS ▶️<br>-------------------------------<br>💻 Front-End ( HTML, CSS, JS, React )<br>👨‍💻 Back-End ( Java, Spring Boot )<br>💾 Banco de Dados (  MySQL, MongoDB )<br>🤖 I.A e Big Data ( Machine Learning, Python )<br>📊 Ciência de dados ( Google Colab, Pandas Python )<br>👾 IOT ( C, C++ )<br>📡 Redes e Hardware<br>
 
 
 ## 🌐 Socials:
