@@ -1,14 +1,15 @@
 # 👨‍💻 Lucas Carvalho
 > **Full Stack Developer | Cyber Offensive & Red Team Operations**
+
 > São Paulo, SP - Brasil
 
-Atuando no desenvolvimento de sistemas, mas com a mira 100% voltada para a Cibersegurança. Minha transição de carreira é focada em entender como as aplicações e redes são construídas na engenharia para, em seguida, testar suas defesas na prática. 
+Atuo no desenvolvimento de sistemas, com foco direcionado à transição para a área de Cibersegurança. Minha abordagem consiste em compreender profundamente a construção de aplicações e infraestruturas de rede, aplicando esse conhecimento na identificação, exploração e mitigação de vulnerabilidades.
 
-Atualmente, dedico minha pesquisa a táticas ofensivas, exploração de vulnerabilidades e arquitetura de redes seguras.
+Atualmente, concentro meus estudos em segurança ofensiva, análise de vulnerabilidades e arquitetura de redes seguras, com ênfase em cenários práticos e laboratoriais.
 
 ### 🎯 Foco Atual & Pesquisa
 * **Red Team Ops:** Especialização em segurança ofensiva, com previsão de conclusão para o final de 2026.
-* **Laboratórios de Pentest:** Desenvolvimento de um projeto de conclusão (TCC) focado em infraestrutura de testes, captura de handshakes e exploração de redes WiFi.
+* **Laboratórios de Pentest:** Desenvolvimento de um projeto em infraestrutura de testes, captura de handshakes e exploração de redes WiFi.
 * **Hardening de Redes:** Práticas de segmentação (VLANs), implementação de ACLs e mitigação de movimentos laterais em infraestruturas corporativas.
 
 ---
@@ -31,16 +32,11 @@ Atualmente, dedico minha pesquisa a táticas ofensivas, exploração de vulnerab
 ---
 
 ### 📌 Projetos em Destaque (Em Desenvolvimento)
-* **[Nome do seu Lab de Redes]**: Simulação de infraestrutura corporativa detalhada (Packet Tracer / GNS3), demonstrando na prática os perigos de redes planas (VLAN 1 padrão) e a implementação de políticas estritas de controle de acesso (ACLs).
-* **[Nome do seu TCC de WiFi]**: Laboratório prático focado na exploração de protocolos de rede sem fio e análise de tráfego.
 
+- 🔐 Laboratório de Rede Corporativa Segura  
+  Simulação completa com VLANs, ACLs e controle de acesso, focada em mitigação de ataques internos.
 ---
 
 ### 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-carvalho-b01382185) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lucas_crvs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/c-lucas-carvalho) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lucas_crvs/)
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarvsL&theme=hacker&hide_border=true&show_icons=true" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarvsL&theme=hacker&hide_border=true&layout=compact" height="150" alt="Linguagens mais usadas"/>
-</p>
